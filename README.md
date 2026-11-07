@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Alejandro Salazar 👋
 
-<!--
-**SLZR7/SLZR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de FP DAW en Málaga, aprendiendo desarrollo de software.
 
-Here are some ideas to get you started:
+## Tecnologías
+- Java
+- HTML
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis repositorios
+- [Java](https://github.com/SLZR7/Java): ejercicios de variables, condicionales y arrays
+- [HTML](https://github.com/SLZR7/HTML): primeras páginas web
+- [Prueba](https://github.com/SLZR7/Prueba): práctica de commits y push
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/alejandro-salazar-3ba25632b
