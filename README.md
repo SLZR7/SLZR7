@@ -1,7 +1,5 @@
-<h1 align="center">Hola, soy Alejandro Salazar 👋</h1>
-
 <p align="center">
-  Estudiante de FP DAW en Málaga, aprendiendo desarrollo de software
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hola,+soy+Alejandro+Salazar;Estudiante+de+FP+DAW+en+Malaga;Aprendiendo+Java+y+HTML" alt="Texto animado">
 </p>
 
 <p align="center">
@@ -21,9 +19,15 @@ Estoy cursando el ciclo de Desarrollo de Aplicaciones Web (DAW) en Málaga. Uso 
 
 | Tecnología | Lo que he practicado | Repositorio |
 |---|---|---|
-| **Java** | Variables y operaciones, condicionales `if/else`, arrays | [Java](https://github.com/SLZR7/Java) |
+| **Java** | Variables y operaciones, condicionales `if/else`, arrays y bucles `for` | [Java](https://github.com/SLZR7/Java) |
 | **HTML** | Páginas básicas con títulos, párrafos y enlaces entre páginas | [HTML](https://github.com/SLZR7/HTML) |
 | **Git y GitHub** | Clonar, `add`, `commit`, `push` e historial con `git log` | Todos mis repositorios |
+
+## 📊 Mi actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SLZR7&show_icons=true&theme=dark" alt="Estadisticas de GitHub">
+</p>
 
 ## 📚 Aprendiendo ahora
 
@@ -33,8 +37,8 @@ Estoy cursando el ciclo de Desarrollo de Aplicaciones Web (DAW) en Málaga. Uso 
 
 ## 📂 Mis repositorios
 
-- 📘 [**Java**](https://github.com/SLZR7/Java): ejercicios de variables, condicionales y arrays
-- 🌐 [**HTML**](https://github.com/SLZR7/HTML): primeras páginas web
+- 📘 [**Java**](https://github.com/SLZR7/Java): ejercicios de variables, condicionales, arrays y bucles
+- 🌐 [**HTML**](https://github.com/SLZR7/HTML): primeras páginas web enlazadas entre sí
 
 ## 📫 Contacto
 
